@@ -1,0 +1,501 @@
+Store ID,Date,Total Sales,Region,Product Category,Units Sold
+Store_7,2024-12-26,4080.97,Mombasa,Electronics,92
+Store_4,2024-10-12,4895.46,Nairobi,Electronics,86
+Store_8,2024-09-29,3363.09,Nairobi,Electronics,14
+Store_5,2024-03-02,7602.29,Nairobi,Home & Living,71
+Store_7,2024-03-24,5275.84,Nairobi,Electronics,86
+Store_10,2024-08-04,2706.02,Nakuru,Groceries,5
+Store_3,2024-12-07,9045.96,Kisumu,Home & Living,55
+Store_7,2024-07-05,4146.97,Kisumu,Clothing,2
+Store_8,2024-01-19,5663.75,Mombasa,Clothing,62
+Store_5,2024-06-25,9111.49,Mombasa,Groceries,91
+Store_4,2024-04-09,6430.26,Nakuru,Groceries,21
+Store_8,2024-08-20,1610.53,Kisumu,Home & Living,79
+Store_8,2024-03-16,9428.41,Kisumu,Clothing,21
+Store_3,2024-09-21,6463.23,Nairobi,Clothing,10
+Store_6,2024-10-10,3681.6,Nakuru,Clothing,87
+Store_5,2024-07-24,1823.08,Nakuru,Clothing,58
+Store_2,2024-08-10,8043.24,Nairobi,Clothing,39
+Store_8,2024-02-21,6390.69,Nakuru,Electronics,5
+Store_6,2024-12-04,5567.88,Nakuru,Groceries,65
+Store_2,2024-05-23,8991.98,Mombasa,Electronics,13
+Store_5,2024-03-09,7991.67,Kisumu,Clothing,85
+Store_1,2024-04-08,1940.91,Nakuru,Home & Living,90
+Store_10,2024-01-25,3461.36,Mombasa,Home & Living,85
+Store_6,2024-02-22,2860.65,Kisumu,Clothing,53
+Store_9,2024-05-30,7567.49,Nairobi,Clothing,82
+Store_1,2024-05-23,818.56,Mombasa,Home & Living,45
+Store_10,2024-02-26,5913.95,Mombasa,Electronics,32
+Store_3,2024-02-08,7743.36,Kisumu,Electronics,36
+Store_7,2024-04-18,8829.27,Nairobi,Clothing,81
+Store_4,2024-06-29,3749.78,Mombasa,Electronics,99
+Store_9,2024-02-11,8301.94,Nakuru,Home & Living,60
+Store_3,2024-07-04,1551.0,Nakuru,Electronics,11
+Store_5,2024-08-10,8541.3,Nakuru,Clothing,63
+Store_3,2024-05-01,1711.14,Nairobi,Home & Living,21
+Store_7,2024-05-12,4274.23,Mombasa,Electronics,52
+Store_5,2024-06-11,8074.31,Nakuru,Groceries,55
+Store_9,2024-08-02,1924.22,Nairobi,Home & Living,26
+Store_7,2024-08-08,2677.89,Nakuru,Home & Living,68
+Store_2,2024-08-22,7361.4,Kisumu,Groceries,34
+Store_4,2024-11-26,7340.35,Mombasa,Groceries,52
+Store_9,2024-05-25,6590.9,Mombasa,Home & Living,82
+Store_2,2024-08-26,7092.51,Nairobi,Groceries,99
+Store_10,2024-03-16,5655.88,Nairobi,Clothing,93
+Store_9,2024-01-09,2892.09,Mombasa,Clothing,52
+Store_10,2024-03-14,3784.11,Nakuru,Clothing,29
+Store_5,2024-09-09,2225.18,Nakuru,Home & Living,38
+Store_2,2024-08-17,9130.28,Kisumu,Groceries,42
+Store_4,2024-01-07,6042.22,Nakuru,Groceries,21
+Store_7,2024-06-22,4308.09,Nairobi,Electronics,42
+Store_8,2024-05-20,4889.06,Nairobi,Electronics,13
+Store_3,2024-06-16,9499.19,Nakuru,Groceries,64
+Store_1,2024-06-18,1956.84,Nairobi,Groceries,17
+Store_4,2024-10-09,6069.18,Mombasa,Groceries,9
+Store_2,2024-05-01,5305.94,Mombasa,Home & Living,41
+Store_8,2024-07-12,6308.82,Nakuru,Groceries,1
+Store_4,2024-01-05,672.05,Mombasa,Electronics,2
+Store_2,2024-01-29,8785.18,Mombasa,Home & Living,60
+Store_6,2024-06-13,9355.12,Kisumu,Groceries,48
+Store_6,2024-12-04,5868.77,Kisumu,Electronics,29
+Store_10,2024-05-15,7118.18,Mombasa,Home & Living,97
+Store_4,2024-12-30,9263.74,Nakuru,Groceries,10
+Store_6,2024-11-16,7218.77,Kisumu,Groceries,58
+Store_2,2024-12-07,1949.12,Nairobi,Groceries,60
+Store_10,2024-05-24,5974.74,Nairobi,Home & Living,21
+Store_2,2024-11-22,6263.79,Nairobi,Electronics,28
+Store_10,2024-08-04,4529.24,Nakuru,Electronics,75
+Store_4,2024-10-27,7496.22,Mombasa,Clothing,34
+Store_8,2024-05-11,9376.49,Nairobi,Groceries,8
+Store_7,2024-10-18,9292.9,Nakuru,Clothing,59
+Store_9,2024-03-10,4782.97,Kisumu,Clothing,86
+Store_8,2024-09-08,1575.76,Mombasa,Electronics,72
+Store_5,2024-10-01,9855.99,Kisumu,Home & Living,49
+Store_2,2024-12-29,8469.53,Nakuru,Home & Living,79
+Store_5,2024-06-30,1684.3,Nairobi,Electronics,17
+Store_8,2024-06-15,9248.0,Nairobi,Home & Living,60
+Store_10,2024-03-31,8764.02,Nakuru,Clothing,87
+Store_9,2024-07-20,5428.96,Nairobi,Groceries,88
+Store_9,2024-12-11,6117.12,Mombasa,Electronics,45
+Store_1,2024-01-19,4290.53,Nakuru,Groceries,83
+Store_9,2024-02-08,1020.24,Kisumu,Home & Living,69
+Store_7,2024-05-05,3684.37,Nakuru,Groceries,32
+Store_9,2024-06-21,8127.11,Mombasa,Home & Living,44
+Store_8,2024-05-20,544.0,Mombasa,Home & Living,65
+Store_1,2024-08-29,3668.24,Nakuru,Clothing,87
+Store_8,2024-08-07,4282.6,Nakuru,Home & Living,8
+Store_8,2024-05-05,5605.26,Nairobi,Clothing,77
+Store_3,2024-02-27,9238.63,Mombasa,Clothing,72
+Store_1,2024-05-27,3790.29,Nakuru,Clothing,87
+Store_8,2024-11-12,3796.06,Nakuru,Electronics,43
+Store_3,2024-12-26,7506.26,Mombasa,Electronics,1
+Store_3,2024-01-01,4796.07,Nakuru,Home & Living,51
+Store_1,2024-12-13,2633.75,Nairobi,Clothing,24
+Store_5,2024-07-08,4798.18,Mombasa,Electronics,99
+Store_10,2024-07-09,1838.14,Nairobi,Clothing,24
+Store_7,2024-11-07,2175.68,Nairobi,Groceries,17
+Store_10,2024-04-26,5234.49,Nairobi,Groceries,5
+Store_9,2024-05-13,4479.79,Nairobi,Groceries,20
+Store_7,2024-02-27,9191.04,Mombasa,Home & Living,21
+Store_9,2024-02-13,3942.74,Nairobi,Clothing,58
+Store_8,2024-06-21,6015.59,Nairobi,Groceries,31
+Store_2,2024-06-08,6506.51,Nakuru,Electronics,11
+Store_1,2024-06-21,624.4,Mombasa,Groceries,52
+Store_7,2024-11-12,6803.61,Mombasa,Groceries,15
+Store_7,2024-10-29,2191.34,Kisumu,Groceries,83
+Store_8,2024-05-28,9630.17,Mombasa,Home & Living,7
+Store_5,2024-03-20,1912.3,Mombasa,Electronics,28
+Store_3,2024-07-31,4438.93,Kisumu,Clothing,51
+Store_8,2024-07-21,1310.82,Mombasa,Electronics,58
+Store_6,2024-09-08,9970.31,Mombasa,Clothing,5
+Store_3,2024-08-16,5270.85,Mombasa,Home & Living,5
+Store_1,2024-06-12,6156.16,Mombasa,Home & Living,94
+Store_3,2024-08-14,1137.23,Kisumu,Home & Living,96
+Store_5,2024-05-26,7624.62,Mombasa,Home & Living,8
+Store_3,2024-01-20,2494.1,Mombasa,Clothing,64
+Store_1,2024-02-16,9031.52,Kisumu,Groceries,10
+Store_5,2024-08-20,2448.83,Nakuru,Clothing,38
+Store_10,2024-10-31,2311.53,Nairobi,Electronics,96
+Store_7,2024-01-14,847.22,Nakuru,Home & Living,92
+Store_7,2024-05-22,4984.64,Kisumu,Home & Living,81
+Store_9,2024-01-01,5865.99,Nairobi,Electronics,95
+Store_10,2024-02-23,1124.23,Kisumu,Clothing,8
+Store_10,2024-09-15,7867.51,Kisumu,Groceries,25
+Store_3,2024-05-23,4806.24,Mombasa,Groceries,73
+Store_7,2024-01-12,5481.71,Nairobi,Electronics,66
+Store_1,2024-11-25,4687.25,Mombasa,Groceries,79
+Store_4,2024-08-11,4307.25,Nairobi,Clothing,50
+Store_4,2024-09-28,5816.58,Kisumu,Clothing,67
+Store_5,2024-12-23,1974.78,Kisumu,Electronics,49
+Store_7,2024-06-04,2228.32,Nakuru,Clothing,36
+Store_7,2024-01-08,8686.96,Nairobi,Home & Living,68
+Store_4,2024-05-01,9488.1,Mombasa,Electronics,78
+Store_7,2024-12-13,4046.44,Nakuru,Clothing,41
+Store_3,2024-06-12,3072.07,Nakuru,Electronics,89
+Store_6,2024-03-30,6618.0,Nakuru,Groceries,62
+Store_2,2024-05-15,4382.97,Mombasa,Clothing,10
+Store_10,2024-07-04,741.17,Nakuru,Home & Living,21
+Store_9,2024-11-11,1983.45,Mombasa,Clothing,36
+Store_5,2024-06-26,7301.74,Nakuru,Electronics,12
+Store_6,2024-01-28,6759.78,Mombasa,Electronics,91
+Store_4,2024-08-07,757.41,Kisumu,Clothing,2
+Store_10,2024-12-22,2608.74,Kisumu,Home & Living,13
+Store_7,2024-02-10,2695.21,Kisumu,Home & Living,53
+Store_9,2024-08-15,6882.98,Kisumu,Home & Living,32
+Store_7,2024-07-10,687.25,Kisumu,Electronics,95
+Store_1,2024-05-24,1489.03,Nakuru,Clothing,16
+Store_1,2024-07-19,8099.2,Nakuru,Groceries,32
+Store_9,2024-07-30,2196.17,Nakuru,Electronics,32
+Store_9,2024-08-07,6701.09,Mombasa,Home & Living,98
+Store_4,2024-08-27,2762.74,Mombasa,Clothing,11
+Store_9,2024-02-15,1444.69,Mombasa,Home & Living,10
+Store_3,2024-02-04,2810.14,Mombasa,Groceries,15
+Store_7,2024-09-09,7361.54,Kisumu,Home & Living,17
+Store_6,2024-03-22,8629.12,Kisumu,Home & Living,40
+Store_8,2024-09-12,8387.09,Kisumu,Groceries,18
+Store_9,2024-07-15,4273.24,Nairobi,Clothing,55
+Store_5,2024-10-29,6846.81,Nakuru,Electronics,73
+Store_1,2024-01-10,2447.35,Mombasa,Clothing,25
+Store_3,2024-11-07,3284.9,Mombasa,Groceries,59
+Store_10,2024-10-12,9015.19,Kisumu,Home & Living,78
+Store_8,2024-08-29,623.52,Mombasa,Clothing,89
+Store_6,2024-09-07,1312.33,Mombasa,Electronics,22
+Store_8,2024-12-30,2474.92,Nakuru,Groceries,30
+Store_9,2024-01-05,752.06,Kisumu,Clothing,84
+Store_4,2024-04-28,2223.64,Nakuru,Electronics,85
+Store_1,2024-10-15,6038.89,Nairobi,Groceries,44
+Store_1,2024-03-05,4503.53,Nairobi,Electronics,32
+Store_10,2024-05-25,8980.38,Nairobi,Groceries,51
+Store_4,2024-08-11,8265.71,Kisumu,Home & Living,46
+Store_7,2024-08-26,3747.26,Mombasa,Clothing,21
+Store_2,2024-06-25,2964.52,Kisumu,Electronics,99
+Store_3,2024-09-23,4107.08,Kisumu,Groceries,32
+Store_1,2024-12-06,6107.8,Mombasa,Electronics,94
+Store_5,2024-10-08,3046.6,Nakuru,Electronics,39
+Store_1,2024-03-03,6429.41,Nairobi,Clothing,12
+Store_8,2024-08-04,4389.41,Nakuru,Home & Living,47
+Store_1,2024-12-07,5744.45,Nairobi,Electronics,18
+Store_1,2024-11-10,4643.2,Kisumu,Groceries,21
+Store_2,2024-10-09,3297.42,Nairobi,Groceries,13
+Store_2,2024-06-25,9510.31,Kisumu,Home & Living,21
+Store_6,2024-04-07,7754.26,Nakuru,Groceries,8
+Store_7,2024-04-14,1831.08,Kisumu,Home & Living,46
+Store_5,2024-04-08,8750.45,Nakuru,Groceries,7
+Store_1,2024-11-06,5130.6,Mombasa,Clothing,23
+Store_1,2024-01-06,8998.25,Mombasa,Electronics,96
+Store_3,2024-07-15,8098.62,Mombasa,Clothing,75
+Store_2,2024-12-16,4539.53,Kisumu,Electronics,86
+Store_5,2024-05-12,713.46,Mombasa,Electronics,22
+Store_10,2024-12-23,3052.43,Nairobi,Electronics,89
+Store_6,2024-09-15,5645.53,Nakuru,Clothing,22
+Store_7,2024-01-23,6518.04,Nakuru,Electronics,92
+Store_4,2024-02-22,2949.93,Nairobi,Clothing,29
+Store_7,2024-06-13,1823.88,Kisumu,Home & Living,13
+Store_8,2024-07-20,8431.84,Kisumu,Groceries,82
+Store_1,2024-03-23,9851.82,Nakuru,Groceries,2
+Store_6,2024-05-24,5494.06,Mombasa,Electronics,29
+Store_8,2024-03-25,2130.95,Kisumu,Clothing,85
+Store_5,2024-03-18,3086.92,Kisumu,Groceries,79
+Store_4,2024-12-31,674.71,Nairobi,Clothing,52
+Store_2,2024-01-01,9185.84,Nairobi,Clothing,27
+Store_6,2024-02-20,1618.64,Mombasa,Electronics,50
+Store_6,2024-06-21,5976.91,Kisumu,Groceries,95
+Store_1,2024-07-23,3103.52,Kisumu,Electronics,79
+Store_9,2024-09-16,5764.69,Nairobi,Electronics,23
+Store_6,2024-10-14,6688.49,Kisumu,Groceries,88
+Store_3,2024-02-03,8382.55,Nakuru,Groceries,44
+Store_4,2024-12-13,2461.0,Nairobi,Home & Living,77
+Store_4,2024-04-04,604.46,Mombasa,Home & Living,22
+Store_3,2024-03-12,1800.41,Nairobi,Clothing,43
+Store_10,2024-02-08,9050.18,Kisumu,Groceries,37
+Store_3,2024-06-02,8801.96,Mombasa,Home & Living,61
+Store_3,2024-09-06,6175.42,Nairobi,Clothing,97
+Store_4,2024-06-10,6204.91,Nakuru,Clothing,56
+Store_7,2024-04-27,6817.85,Nakuru,Clothing,3
+Store_4,2024-09-15,2166.03,Nairobi,Home & Living,63
+Store_9,2024-11-01,9186.91,Nakuru,Groceries,19
+Store_1,2024-09-24,4478.32,Nakuru,Electronics,23
+Store_8,2024-02-23,4139.82,Nakuru,Clothing,29
+Store_7,2024-08-23,5429.72,Mombasa,Home & Living,30
+Store_2,2024-08-09,946.18,Nakuru,Home & Living,39
+Store_8,2024-09-07,2079.69,Nakuru,Electronics,25
+Store_1,2024-11-08,7511.32,Nakuru,Electronics,8
+Store_9,2024-04-21,1286.59,Mombasa,Home & Living,58
+Store_9,2024-09-11,6229.95,Nairobi,Groceries,16
+Store_2,2024-10-29,2830.82,Kisumu,Electronics,72
+Store_7,2024-07-25,4198.31,Nakuru,Home & Living,1
+Store_10,2024-08-16,3242.59,Nairobi,Electronics,5
+Store_3,2024-12-06,3878.89,Nakuru,Groceries,3
+Store_7,2024-03-06,7330.94,Mombasa,Clothing,65
+Store_10,2024-03-15,3322.66,Nairobi,Electronics,4
+Store_9,2024-04-12,5880.84,Mombasa,Groceries,99
+Store_4,2024-07-10,5022.48,Nakuru,Home & Living,96
+Store_1,2024-09-08,6804.88,Nakuru,Electronics,64
+Store_2,2024-08-13,9399.88,Mombasa,Electronics,98
+Store_1,2024-10-20,7459.43,Kisumu,Home & Living,89
+Store_5,2024-11-01,2541.93,Mombasa,Clothing,10
+Store_5,2024-04-07,796.24,Nakuru,Home & Living,21
+Store_7,2024-12-03,2991.51,Mombasa,Electronics,46
+Store_9,2024-10-12,6153.24,Kisumu,Home & Living,91
+Store_9,2024-11-30,988.55,Mombasa,Groceries,27
+Store_3,2024-12-12,5215.48,Kisumu,Home & Living,66
+Store_3,2024-11-03,6170.01,Kisumu,Electronics,41
+Store_3,2024-09-05,3675.32,Mombasa,Home & Living,13
+Store_4,2024-06-14,7823.67,Mombasa,Clothing,9
+Store_8,2024-11-30,1512.68,Nairobi,Home & Living,36
+Store_6,2024-01-30,1213.81,Nakuru,Clothing,86
+Store_8,2024-09-03,7417.79,Kisumu,Groceries,90
+Store_1,2024-04-15,5207.17,Nairobi,Clothing,58
+Store_8,2024-02-20,7039.82,Mombasa,Home & Living,54
+Store_4,2024-03-21,4630.86,Nakuru,Electronics,12
+Store_1,2024-05-12,2840.82,Nairobi,Clothing,81
+Store_8,2024-10-11,8281.47,Kisumu,Groceries,78
+Store_4,2024-05-17,8094.45,Nairobi,Clothing,14
+Store_6,2024-07-02,7099.62,Kisumu,Clothing,34
+Store_8,2024-11-25,3085.38,Mombasa,Clothing,53
+Store_4,2024-09-29,6107.19,Nakuru,Groceries,20
+Store_3,2024-12-05,3929.25,Nakuru,Home & Living,75
+Store_9,2024-03-09,1370.03,Nakuru,Clothing,16
+Store_3,2024-02-03,9214.48,Mombasa,Clothing,95
+Store_9,2024-09-18,1799.78,Kisumu,Electronics,70
+Store_2,2024-02-22,9527.25,Mombasa,Groceries,56
+Store_2,2024-07-23,4737.05,Nakuru,Clothing,83
+Store_2,2024-05-05,2258.76,Mombasa,Groceries,58
+Store_6,2024-08-22,5648.06,Mombasa,Clothing,4
+Store_3,2024-02-12,8792.99,Mombasa,Home & Living,4
+Store_9,2024-08-27,7456.14,Kisumu,Home & Living,20
+Store_4,2024-04-20,8162.33,Nairobi,Clothing,10
+Store_1,2024-09-05,6758.44,Nairobi,Home & Living,24
+Store_4,2024-05-30,7076.63,Mombasa,Clothing,99
+Store_1,2024-07-01,8567.36,Nairobi,Home & Living,26
+Store_5,2024-12-01,2871.85,Nairobi,Electronics,37
+Store_4,2024-04-04,5149.54,Mombasa,Electronics,85
+Store_8,2024-01-08,2601.49,Mombasa,Electronics,54
+Store_8,2024-12-25,9882.85,Nakuru,Groceries,21
+Store_7,2024-07-02,9468.56,Nairobi,Groceries,74
+Store_3,2024-10-07,874.55,Kisumu,Electronics,38
+Store_1,2024-07-13,7202.96,Mombasa,Groceries,46
+Store_1,2024-12-17,9289.86,Nakuru,Home & Living,4
+Store_3,2024-07-13,2215.47,Kisumu,Clothing,60
+Store_6,2024-06-03,5895.48,Nairobi,Clothing,57
+Store_7,2024-04-02,9197.14,Nakuru,Clothing,45
+Store_6,2024-06-08,822.49,Mombasa,Electronics,20
+Store_6,2024-03-01,7125.49,Kisumu,Groceries,17
+Store_6,2024-05-01,3324.82,Mombasa,Home & Living,71
+Store_3,2024-02-20,9281.76,Nairobi,Home & Living,4
+Store_6,2024-10-03,9725.05,Kisumu,Electronics,93
+Store_8,2024-01-05,9470.53,Nairobi,Home & Living,14
+Store_2,2024-04-01,5005.04,Nairobi,Home & Living,3
+Store_5,2024-06-18,8689.41,Nakuru,Home & Living,88
+Store_1,2024-11-12,8523.22,Mombasa,Home & Living,80
+Store_1,2024-01-22,3531.45,Kisumu,Groceries,58
+Store_5,2024-11-21,8374.7,Nairobi,Home & Living,55
+Store_3,2024-01-01,851.57,Nairobi,Clothing,4
+Store_4,2024-05-12,6164.56,Kisumu,Electronics,24
+Store_3,2024-08-20,2685.08,Nairobi,Groceries,34
+Store_1,2024-01-12,1645.39,Nakuru,Home & Living,30
+Store_1,2024-12-11,1231.06,Nakuru,Groceries,82
+Store_5,2024-02-15,7114.74,Nakuru,Home & Living,19
+Store_6,2024-02-03,3728.81,Nakuru,Clothing,31
+Store_3,2024-03-18,7385.28,Nairobi,Electronics,60
+Store_9,2024-08-05,1120.89,Kisumu,Home & Living,60
+Store_5,2024-10-27,3495.26,Kisumu,Home & Living,19
+Store_8,2024-03-13,5625.17,Kisumu,Home & Living,49
+Store_1,2024-10-08,8011.87,Kisumu,Home & Living,63
+Store_5,2024-09-05,3528.15,Mombasa,Electronics,83
+Store_3,2024-02-16,6445.97,Kisumu,Electronics,22
+Store_1,2024-04-30,8916.79,Mombasa,Clothing,24
+Store_4,2024-08-01,6350.7,Mombasa,Electronics,76
+Store_5,2024-08-26,2713.12,Nakuru,Home & Living,30
+Store_7,2024-02-25,731.81,Mombasa,Clothing,58
+Store_1,2024-12-15,8765.94,Nairobi,Clothing,31
+Store_3,2024-04-16,702.06,Mombasa,Clothing,64
+Store_2,2024-11-14,8809.67,Nakuru,Home & Living,19
+Store_9,2024-02-17,5524.9,Mombasa,Groceries,48
+Store_10,2024-03-01,9421.14,Nairobi,Home & Living,45
+Store_6,2024-12-02,8088.44,Nairobi,Electronics,94
+Store_10,2024-01-26,9980.37,Nairobi,Electronics,55
+Store_3,2024-10-18,3831.76,Nakuru,Home & Living,55
+Store_8,2024-09-13,7788.29,Nakuru,Home & Living,97
+Store_8,2024-01-08,4318.34,Kisumu,Clothing,18
+Store_2,2024-04-22,5058.82,Nakuru,Home & Living,63
+Store_6,2024-12-20,6461.3,Nairobi,Clothing,92
+Store_7,2024-09-09,8799.93,Nairobi,Electronics,47
+Store_2,2024-06-28,9848.79,Nakuru,Clothing,75
+Store_10,2024-07-25,7798.6,Mombasa,Home & Living,57
+Store_2,2024-10-29,4468.78,Nakuru,Electronics,45
+Store_10,2024-05-06,4502.89,Nakuru,Groceries,33
+Store_1,2024-02-25,7507.03,Nairobi,Clothing,17
+Store_8,2024-08-01,2768.38,Kisumu,Electronics,70
+Store_1,2024-01-14,1549.5,Nairobi,Clothing,4
+Store_9,2024-01-28,3868.91,Kisumu,Electronics,20
+Store_6,2024-03-18,3228.77,Nairobi,Electronics,47
+Store_7,2024-08-03,3314.93,Nakuru,Clothing,91
+Store_10,2024-12-30,2719.27,Nairobi,Groceries,15
+Store_7,2024-06-02,899.89,Nairobi,Electronics,70
+Store_10,2024-01-14,669.8,Nairobi,Electronics,47
+Store_3,2024-07-05,9883.36,Nakuru,Electronics,78
+Store_2,2024-11-07,4563.84,Nakuru,Groceries,75
+Store_9,2024-01-07,4151.1,Nakuru,Groceries,9
+Store_8,2024-01-03,6956.65,Nakuru,Home & Living,90
+Store_10,2024-04-20,2573.41,Kisumu,Clothing,16
+Store_7,2024-08-25,9524.63,Kisumu,Groceries,69
+Store_9,2024-12-28,7970.28,Mombasa,Clothing,61
+Store_4,2024-08-26,1349.4,Nakuru,Home & Living,10
+Store_4,2024-09-30,4467.02,Kisumu,Clothing,50
+Store_1,2024-10-20,8851.62,Nairobi,Groceries,3
+Store_8,2024-08-14,9474.95,Nakuru,Clothing,77
+Store_3,2024-01-15,4940.31,Mombasa,Groceries,94
+Store_7,2024-07-10,6327.41,Mombasa,Clothing,70
+Store_2,2024-04-28,2086.82,Mombasa,Groceries,81
+Store_2,2024-01-28,9916.1,Nairobi,Groceries,51
+Store_7,2024-07-20,2700.88,Kisumu,Clothing,19
+Store_6,2024-02-08,9455.95,Nairobi,Home & Living,42
+Store_3,2024-09-29,6671.64,Nakuru,Electronics,35
+Store_9,2024-08-18,6273.5,Mombasa,Home & Living,46
+Store_10,2024-03-26,5370.54,Nairobi,Clothing,26
+Store_6,2024-05-05,2691.36,Nairobi,Home & Living,69
+Store_10,2024-10-26,2177.02,Kisumu,Groceries,93
+Store_10,2024-01-25,2594.62,Kisumu,Electronics,64
+Store_6,2024-05-24,2271.16,Mombasa,Clothing,37
+Store_1,2024-01-13,7906.05,Nairobi,Clothing,84
+Store_4,2024-07-30,3826.19,Nairobi,Clothing,49
+Store_10,2024-01-25,1049.51,Kisumu,Electronics,21
+Store_6,2024-03-08,9706.47,Nairobi,Groceries,74
+Store_6,2024-03-07,8895.97,Nairobi,Clothing,64
+Store_5,2024-08-20,9313.65,Nairobi,Home & Living,5
+Store_1,2024-04-18,9951.62,Kisumu,Clothing,70
+Store_8,2024-05-25,2152.0,Mombasa,Clothing,90
+Store_5,2024-04-20,4264.3,Nakuru,Clothing,4
+Store_5,2024-08-15,7703.27,Mombasa,Clothing,39
+Store_7,2024-04-20,7112.2,Nakuru,Groceries,35
+Store_4,2024-02-03,1962.01,Nairobi,Home & Living,1
+Store_6,2024-04-20,8250.41,Mombasa,Groceries,24
+Store_4,2024-09-20,2632.19,Nakuru,Home & Living,57
+Store_3,2024-08-23,2626.27,Kisumu,Clothing,70
+Store_7,2024-03-23,5601.26,Kisumu,Electronics,41
+Store_8,2024-02-11,6132.93,Mombasa,Groceries,54
+Store_4,2024-04-10,6010.82,Mombasa,Electronics,46
+Store_2,2024-01-06,1369.12,Nairobi,Groceries,60
+Store_10,2024-06-28,8835.88,Mombasa,Clothing,60
+Store_3,2024-10-08,3023.2,Nairobi,Groceries,57
+Store_1,2024-11-15,1730.39,Nairobi,Clothing,31
+Store_8,2024-08-13,8943.11,Kisumu,Groceries,84
+Store_3,2024-11-10,9578.69,Kisumu,Clothing,24
+Store_10,2024-12-30,8690.21,Nakuru,Clothing,89
+Store_7,2024-08-16,8190.4,Kisumu,Home & Living,36
+Store_10,2024-10-15,6724.8,Kisumu,Clothing,85
+Store_5,2024-05-29,5733.15,Mombasa,Home & Living,30
+Store_10,2024-10-03,1326.37,Kisumu,Clothing,24
+Store_5,2024-07-16,4380.31,Nakuru,Electronics,30
+Store_7,2024-03-10,4040.54,Mombasa,Clothing,86
+Store_9,2024-04-21,2967.66,Nakuru,Electronics,92
+Store_5,2024-01-04,7372.49,Kisumu,Electronics,7
+Store_1,2024-12-15,5210.82,Nakuru,Clothing,35
+Store_10,2024-11-26,1269.94,Mombasa,Electronics,55
+Store_10,2024-11-13,2591.74,Nairobi,Home & Living,92
+Store_1,2024-12-15,6990.96,Nakuru,Groceries,14
+Store_2,2024-04-04,1223.24,Nakuru,Clothing,10
+Store_6,2024-05-31,8586.47,Mombasa,Electronics,80
+Store_9,2024-11-06,5203.89,Mombasa,Clothing,16
+Store_8,2024-05-16,5065.57,Nakuru,Home & Living,54
+Store_5,2024-09-03,6127.87,Kisumu,Clothing,95
+Store_1,2024-08-30,8334.47,Nakuru,Clothing,89
+Store_7,2024-01-31,3804.19,Mombasa,Electronics,77
+Store_5,2024-02-09,6941.15,Nairobi,Home & Living,70
+Store_6,2024-08-16,5874.45,Nairobi,Groceries,44
+Store_7,2024-02-05,3036.77,Kisumu,Groceries,73
+Store_3,2024-08-10,8846.98,Nakuru,Electronics,45
+Store_10,2024-01-06,8075.55,Nairobi,Clothing,56
+Store_3,2024-11-17,6755.29,Nakuru,Electronics,84
+Store_5,2024-08-07,8580.53,Mombasa,Electronics,82
+Store_6,2024-03-15,8739.29,Nairobi,Electronics,57
+Store_9,2024-01-04,7229.45,Kisumu,Clothing,21
+Store_5,2024-11-30,8451.63,Mombasa,Home & Living,68
+Store_1,2024-05-13,7125.98,Kisumu,Electronics,50
+Store_4,2024-04-27,6961.34,Mombasa,Clothing,33
+Store_5,2024-04-03,6376.81,Nairobi,Home & Living,91
+Store_10,2024-03-02,7650.81,Kisumu,Electronics,7
+Store_10,2024-07-12,2006.75,Kisumu,Groceries,70
+Store_5,2024-11-30,8868.27,Mombasa,Home & Living,15
+Store_7,2024-07-21,8782.51,Kisumu,Electronics,82
+Store_4,2024-01-26,777.85,Mombasa,Home & Living,32
+Store_1,2024-06-21,8345.26,Mombasa,Home & Living,75
+Store_5,2024-10-26,1724.26,Mombasa,Home & Living,20
+Store_7,2024-05-12,3683.63,Mombasa,Home & Living,88
+Store_10,2024-11-21,7563.33,Nairobi,Home & Living,15
+Store_10,2024-04-27,2027.22,Mombasa,Home & Living,48
+Store_6,2024-11-19,8270.69,Nakuru,Electronics,71
+Store_5,2024-10-01,8405.27,Kisumu,Groceries,21
+Store_4,2024-07-30,5320.94,Nakuru,Clothing,42
+Store_2,2024-08-12,560.67,Nairobi,Home & Living,26
+Store_4,2024-01-20,3226.86,Nakuru,Clothing,14
+Store_10,2024-04-22,6360.81,Kisumu,Electronics,57
+Store_10,2024-05-19,9821.27,Nakuru,Home & Living,37
+Store_3,2024-02-16,6502.23,Nairobi,Groceries,58
+Store_10,2024-01-01,2968.13,Mombasa,Clothing,21
+Store_1,2024-03-30,6523.05,Nakuru,Home & Living,82
+Store_8,2024-05-21,5629.86,Nairobi,Electronics,69
+Store_5,2024-11-15,7908.53,Nairobi,Groceries,3
+Store_4,2024-02-07,1516.32,Kisumu,Clothing,87
+Store_8,2024-10-19,7729.77,Kisumu,Clothing,90
+Store_7,2024-05-18,5642.03,Nakuru,Home & Living,37
+Store_2,2024-12-21,9648.42,Mombasa,Groceries,88
+Store_1,2024-11-28,3747.79,Nairobi,Groceries,49
+Store_4,2024-09-15,6509.91,Nakuru,Groceries,19
+Store_8,2024-06-09,9354.27,Nairobi,Groceries,89
+Store_2,2024-06-26,1473.84,Nairobi,Electronics,85
+Store_3,2024-01-10,9403.67,Mombasa,Groceries,12
+Store_1,2024-09-17,7034.91,Mombasa,Clothing,61
+Store_1,2024-05-17,1144.45,Nakuru,Clothing,41
+Store_3,2024-06-20,3359.15,Mombasa,Electronics,33
+Store_5,2024-01-13,7227.63,Mombasa,Clothing,50
+Store_3,2024-06-16,1139.83,Nakuru,Clothing,68
+Store_1,2024-05-09,6030.62,Mombasa,Groceries,71
+Store_1,2024-03-24,3785.89,Kisumu,Clothing,86
+Store_8,2024-11-16,6398.7,Nairobi,Electronics,33
+Store_10,2024-11-14,934.55,Nairobi,Groceries,81
+Store_2,2024-04-10,8779.6,Nairobi,Home & Living,24
+Store_3,2024-11-24,9748.15,Nairobi,Groceries,61
+Store_2,2024-09-29,9704.34,Nakuru,Electronics,61
+Store_3,2024-09-21,7621.69,Nairobi,Groceries,98
+Store_7,2024-02-07,1735.82,Nairobi,Groceries,28
+Store_1,2024-04-03,7703.5,Nairobi,Electronics,58
+Store_10,2024-04-04,733.58,Nairobi,Groceries,43
+Store_8,2024-10-31,710.17,Kisumu,Electronics,41
+Store_10,2024-03-09,3574.3,Nairobi,Electronics,39
+Store_10,2024-11-13,5142.11,Kisumu,Home & Living,86
+Store_10,2024-08-23,7818.87,Nakuru,Clothing,49
+Store_2,2024-11-29,6991.31,Mombasa,Clothing,17
+Store_3,2024-05-16,4736.08,Nairobi,Groceries,98
+Store_9,2024-03-16,3099.45,Mombasa,Groceries,70
+Store_7,2024-02-04,9972.68,Mombasa,Home & Living,70
+Store_4,2024-01-01,4548.72,Nakuru,Home & Living,98
+Store_10,2024-10-22,4788.18,Mombasa,Home & Living,65
+Store_5,2024-11-15,2054.43,Kisumu,Electronics,74
+Store_2,2024-02-29,8050.69,Mombasa,Home & Living,85
+Store_8,2024-11-15,7089.98,Mombasa,Home & Living,5
+Store_4,2024-12-14,2597.31,Mombasa,Groceries,2
+Store_9,2024-11-23,1282.62,Nairobi,Home & Living,22
+Store_5,2024-09-23,6964.74,Nairobi,Electronics,57
+Store_9,2024-12-26,6717.86,Kisumu,Electronics,66
+Store_4,2024-08-16,3095.97,Kisumu,Groceries,74
+Store_10,2024-09-26,9533.2,Nairobi,Home & Living,98
+Store_5,2024-11-11,1935.05,Kisumu,Home & Living,16
+Store_9,2024-10-12,4607.18,Nairobi,Electronics,51
+Store_8,2024-10-17,9464.35,Nakuru,Home & Living,39
+Store_3,2024-07-31,4487.41,Mombasa,Home & Living,86
+Store_1,2024-06-13,6566.0,Mombasa,Home & Living,76
+Store_3,2024-01-05,4277.15,Kisumu,Clothing,88
+Store_4,2024-12-04,3105.04,Nairobi,Groceries,40
+Store_2,2024-03-18,9847.79,Nairobi,Clothing,38
+Store_1,2024-03-02,4388.67,Kisumu,Groceries,60
+Store_7,2024-05-11,8993.94,Nairobi,Electronics,59
+Store_8,2024-03-29,2684.57,Nakuru,Home & Living,10
+Store_7,2024-08-24,2524.49,Mombasa,Groceries,99
+Store_5,2024-02-11,795.77,Kisumu,Clothing,64
+Store_1,2024-03-29,6690.83,Kisumu,Home & Living,63
+Store_7,2024-10-22,4001.0,Nairobi,Electronics,49
+Store_7,2024-11-23,8711.4,Kisumu,Groceries,64
+Store_9,2024-10-21,4995.49,Nakuru,Groceries,32
+Store_3,2024-04-13,9697.84,Nairobi,Groceries,7
